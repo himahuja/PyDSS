@@ -19,12 +19,14 @@ Install the latest supported PyDSS version with this command:
 
 Alternatively, to get the lastest code from the master branch:
 
-```$ git clone https://github.com/NREL/PyDSS
-$ pip install -e PyDSS```
+```
+$ git clone https://github.com/NREL/PyDSS
+$ pip install -e PyDSS
+```
 
 Confirm the installation with this command. It should print the available commands:
 
-$ pydss --help
+`$ pydss --help`
 
 **PyDSS** is a high level python interface for **OpenDSS** and provides the following functionalities
 
